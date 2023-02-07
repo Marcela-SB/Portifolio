@@ -1,0 +1,74 @@
+#fundo{
+  height: 100%;
+  width: 100%;  
+  background-color: #5555dd;
+  padding: 20px;
+  color: white;
+}
+
+/*TEXTOS*/
+  .inicio{
+    text-align: center;
+  }
+  
+  .titulo{
+    font-weight: bold;
+    text-align: center;
+    font-size: 200%;
+  }
+
+
+/*DIV*/
+  .grupo{
+    background-color: #7f7fe6;
+    padding: 10px;
+    border-radius: 12px;
+  }
+
+  .grupo .col-sm-6{
+    background-color: violet;
+      
+    
+    
+  }
+
+
+/*CAIXINHAS*/
+  .LP{
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    background-color: #a8abff;
+    padding: 5px;
+    border-radius: 5px;
+    transition: 0.4s;
+  }
+  .LP:hover{
+    background-color: #6c6eea;
+  }
+
+
+/*CONTATOS*/
+  footer{
+    background-color: #7f7fe6;
+    text-align: center;
+    border-radius: 12px;
+  }
+  
+  footer i{
+    color: #3f3fd9;
+    transition: 0.3s;
+    font-size: 150%;
+  }
+  footer i:hover{
+    color: #2626c0;
+  }
+
+
+/*
+lavender
+#bfbff2
+#7f7fe6
+
+box-shadow: inset 2px 2px 4px #4044a5, inset -2px -2px 4px #61567b;
+*/
